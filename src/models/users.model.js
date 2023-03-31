@@ -4,5 +4,8 @@ const bcrypt = require('bcrypt')
 
 
 const User = db.define('users',{
+    id:{
+        
+    }
 
 })
